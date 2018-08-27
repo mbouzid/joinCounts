@@ -1,4 +1,4 @@
-# One-Mat
+# joinCounts
 join multiple k-mer counts table into a single matrix
 
 
